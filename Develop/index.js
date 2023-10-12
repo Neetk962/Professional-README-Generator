@@ -74,6 +74,11 @@ inquirer
     },
     {
       type: 'input',
+      name: 'credits',
+      message: 'Enter your credits for the project?',
+    },
+    {
+      type: 'input',
       name: 'license',
       message: 'Enter your licenses for the project?',
     },
