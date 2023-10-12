@@ -32,6 +32,14 @@ const generateReadMe = (data) =>
   
   ## License
 ${data.license}
+
+
+## Tests
+${data.tests}
+
+
+## Questions 
+${data.questions}
   
   ---
   
@@ -57,7 +65,7 @@ inquirer
     {
       type: 'input',
       name: 'installation',
-      message: 'What is teh installation of the project?',
+      message: 'What is the installation of the project?',
     },
     {
       type: 'input',
@@ -67,7 +75,18 @@ inquirer
     {
       type: 'input',
       name: 'license',
-      message: 'Enter your licenses for the project',
+      message: 'Enter your licenses for the project?',
+    },
+
+    {
+      type: 'input',
+      name: 'tests',
+      message: 'Enter your tests instrcutions for the project?',
+    },
+    {
+      type: 'input',
+      name: 'questions',
+      message: 'Enter your questions for the project?',
     },
     
   ])
