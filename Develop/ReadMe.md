@@ -2,7 +2,7 @@
 
   ## Description
 
-  Express is Express shipping company. 
+  Express is a shipping company. 
   
   ## Table of Contents 
   
@@ -12,17 +12,17 @@
   - [License](#license)
   
   ## Installation
-  yes. 
+  yes
   
   
   ## Usage
-  html
+  yes
   
   
       
   
   ## Credits
-  undefined
+  yes
   
  
   
@@ -31,11 +31,11 @@ yes
 
 
 ## Tests
-yes
+please do tests.m
 
 
 ## Questions 
-what are questions? 
+what are questions?
   
   ---
   
